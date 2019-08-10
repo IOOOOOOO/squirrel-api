@@ -2,13 +2,9 @@
 
 为微信小程序制作的rest api插件
 
-### 引导
-1. 你需要把wordpress的rest api开启，如果你禁用了的话
-2. 你需要安装redis
-
 
 ### 图文详细文档
-
+https://www.squirrelzoo.com/archives/5609
 
 ### 感谢
 
